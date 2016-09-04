@@ -2,6 +2,7 @@
 
 ## Backlog
 Tick checkboxes on every update.
+
 1. EVENTS & ANNOUNCEMENTS
   - [ ] events (displayable)
     - [upcoming] dept events, cs network, e.g bootcamp, research fair, lectures, workshops
