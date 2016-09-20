@@ -13,31 +13,31 @@ Tick checkboxes on every update.
 2. NEWS
   - anything dept related, alumni, students and faculty and staff, parang newsletter. e.g. competition winners, graduates, concluded events.
 3. FACULTY
-  - [ ] Faculty-User relation
+  - [X] Faculty-User relation
     - OneToOne on Faculty to user
-  - [ ] displayable  ===> maybe not necessary
+  - [X] displayable  ===> maybe not necessary
   - [x] dont show rank, only position in profile
   - [x] dont order by position, order by surname
   - [x] many to many research labs ==> change _laboratory to laboratories
 4. STUDENTS
-  - [ ] displayable
-  - [ ] 2 fields for description: brief description and long description
-  - [ ] hyperlink to long description
-    - [ ] full description of student org on separate page
+  - [X] displayable
+  - [X] 2 fields for description: brief description and long description
+  - [X] hyperlink to long description
+    - [X] full description of student org on separate page
       - put everything on this page except for the short description
 5. ABOUT
-  - [ ] Page
-    - [ ] Rich text for content
+  - [X] Page
+    - [X] Rich text for content
 6. RESEARCH
-  - [ ] Labs - pages
-  - [ ] Labs: short description field
-  - [ ] hyperlink to long description
-    - [ ] full description of student org on separate page
+  - [X] Labs - pages
+  - [X] Labs: short description field
+  - [X] hyperlink to long description
+    - [X] full description of student org on separate page
       - put everything on this page except for the short description
 7. PROGRAMS
-  - [ ] Page each program
-  - [ ] custom template for Programs
-  - [ ] rich text content for Programs
+  - [X] Page each program
+  - [X] custom template for Programs
+  - [x] rich text content for Programs
 8. HOME PAGE
   - [ ] link to all announcements and link to all events
     - [ ] page for all announcements
