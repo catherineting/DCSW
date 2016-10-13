@@ -4,14 +4,14 @@
 Tick checkboxes on every update.
 
 1. EVENTS & ANNOUNCEMENTS
-  - [ ] events (displayable)
+  - [X] events (displayable)
     - [upcoming] dept events, cs network, e.g bootcamp, research fair, lectures, workshops
-  - [ ] announcements (displayable)
+  - [X] announcements ~~(displayable)~~ RichText
     - acad calendar, administrative announcements, formal, e.g tagging of graduating, final exams schedule, start/end of classes, appeal for readmission, shiftees and transferees
-  - [ ] pagination
-  - [ ] archive
+  - [X] pagination
+  - [X] archive
 2. NEWS
-  - anything dept related, alumni, students and faculty and staff, parang newsletter. e.g. competition winners, graduates, concluded events.
+  - [ ] anything dept related, alumni, students and faculty and staff, parang newsletter. e.g. competition winners, graduates, concluded events.
 3. FACULTY
   - [X] Faculty-User relation
     - OneToOne on Faculty to user
