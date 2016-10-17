@@ -11,7 +11,7 @@ Tick checkboxes on every update.
   - [X] pagination
   - [X] archive
 2. NEWS
-  - [ ] anything dept related, alumni, students and faculty and staff, parang newsletter. e.g. competition winners, graduates, concluded events.
+  - [X] anything dept related, alumni, students and faculty and staff, parang newsletter. e.g. competition winners, graduates, concluded events.
 3. FACULTY
   - [X] Faculty-User relation
     - OneToOne on Faculty to user
@@ -39,6 +39,6 @@ Tick checkboxes on every update.
   - [X] custom template for Programs
   - [x] rich text content for Programs
 8. HOME PAGE
-  - [ ] link to all announcements and link to all events
-    - [ ] page for all announcements
-    - [ ] page for all events
+  - [X] link to all announcements and link to all events
+    - [X] page for all announcements
+    - [X] page for all events
